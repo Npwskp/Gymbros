@@ -1,0 +1,16 @@
+.head-text{
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    font-size: 100px;
+    color: aliceblue;
+}
+.description{
+    font-family: 'Sniglet', cursive;
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+}
+.intro{
+    margin: auto;
+    padding: 3rem;
+}
