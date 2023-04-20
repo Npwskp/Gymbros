@@ -1,4 +1,6 @@
 .All{
-  background-color: black;
-  background-size: auto;
+  background-image: url("gym.png");
+  background-repeat: no-repeat;
+  background-position: auto;
+  background-size: cover;
 }

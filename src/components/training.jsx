@@ -12,7 +12,10 @@ function Training() {
                 style={{"padding":"1rem"}}>
             </img>
             <div className='sub-block'>
-                <button className='button_plan' width="300" height="150" rx='20' ry='20'>hello</button>
+                <button className='button_plan'>4 Days Per Week</button>
+                <button className='button_plan'>5 Days Per Week</button>
+                <button className='button_plan'>6 Days Per Week</button>
+                <button className='button_plan'>Make your own Here!</button>
             </div>
         </div>
     </div>

@@ -17,14 +17,22 @@
 }
 
 .button_plan{
-    background-color: #4CAF50;
-    /* Green */
-    border: none;
+    font-family: 'Sniglet', cursive;
+    font-size: 20px;
+    background-color: rgba(172, 17, 35, 0.896);
+    opacity: 100%;
+    margin: 0.5rem;
     color: white;
-    padding: 15px 32px;
+    padding: 40px 80px;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    border-width: 2px;
     border-radius: 8px;
+    border-color: rgba(172, 17, 35, 0.896);
+    
+}
+.button_plan:hover{
+    background-color: black;
+    opacity: 60%;
+    border-width: 2px;
+    border-color: rgba(172, 17, 35, 0.896);
 }
